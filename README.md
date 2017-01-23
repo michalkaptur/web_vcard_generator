@@ -1,2 +1,2 @@
 # web_vcard_generator
-current status: unknown
+[![Build Status](https://travis-ci.org/michalkaptur/web_vcard_generator.svg?branch=master)](https://travis-ci.org/michalkaptur/web_vcard_generator)

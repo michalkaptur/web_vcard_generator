@@ -1,0 +1,16 @@
+sudo: false
+
+language: cpp
+compiler:
+  - clang
+  - g++
+
+addons:
+  apt:
+    packages:
+      - cmake
+
+script:
+  - "mkdir build && cd build"
+  - "cmake .."
+  - "make"
